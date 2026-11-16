@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.jj": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\lea-e\\OneDrive\\Studium\\5_Semester\\Beleuchtung und Rendering\\Beleg\\GitHub\\LSysteme\\Paper\\latex_template_twoside_journal_java_code\\latex_template_twoside_journal_java_code\\main.aux": true,
+        "**/c:\\Users\\lea-e\\OneDrive\\Studium\\5_Semester\\Beleuchtung und Rendering\\Beleg\\GitHub\\LSysteme\\Paper\\latex_template_twoside_journal_java_code\\latex_template_twoside_journal_java_code\\main.log": true,
+        "**/c:\\Users\\lea-e\\OneDrive\\Studium\\5_Semester\\Beleuchtung und Rendering\\Beleg\\GitHub\\LSysteme\\Paper\\latex_template_twoside_journal_java_code\\latex_template_twoside_journal_java_code\\main.gz": true,
+        "**/c:\\Users\\lea-e\\OneDrive\\Studium\\5_Semester\\Beleuchtung und Rendering\\Beleg\\GitHub\\LSysteme\\Paper\\latex_template_twoside_journal_java_code\\latex_template_twoside_journal_java_code\\main.out": true
+    }
+}
